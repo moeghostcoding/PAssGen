@@ -23,9 +23,20 @@ Open Source: The PassGen project is open source, allowing developers to contribu
 Installation
 To use PassGen, make sure you have Python installed on your system. Follow these steps to set up the project:
 
-Use:
+Clone the repository:
 
-Download file then does't matter which coding porgrame you using open folder useing the porgrame 
+bash
+Copy code
+git clone https://github.com/MohamadISmaeil/PAssGen.git
+cd passgen
+
+bash
+Copy code
+Run the PassGen script:
+
+bash
+Copy code
+python passgen.py
 Usage
 After running the PassGen script, you will be prompted to enter the desired password length. Once you provide the length, the tool will generate a random password and display it on the screen.
 
