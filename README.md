@@ -26,18 +26,27 @@ To use PassGen, make sure you have Python installed on your system. Follow these
 Clone the repository:
 
 bash
+
 Copy code
+
 git clone https://github.com/MohamadISmaeil/PAssGen.git
+
 cd passgen
 
 bash
+
 Copy code
+
 Run the PassGen script:
 
 bash
+
 Copy code
+
 python passgen.py
+
 Usage
+
 After running the PassGen script, you will be prompted to enter the desired password length. Once you provide the length, the tool will generate a random password and display it on the screen.
 
 Make sure to copy the generated password and use it as needed. As mentioned earlier, PassGen does not store or save any passwords for security reasons.
